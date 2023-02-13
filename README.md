@@ -1,2 +1,3 @@
 # Voron-Ender_3Pro_Switchwire
- Conversion of the Ender 3 pro to a switch wire and its mods
+Conversion of the Ender 3 pro to a switch wire and its mods.
+This is a full conversion of the popular Ender 3 Pro/V2 to a Voron Switchwire. This conversion was inspired by walttriano and boubounokefalos. However, like boubounokefalos's design, almost everything was re-designed for a better rigidity and improved some reliability issues based on my personal experience. And designed a new enclosure with a easier accessing working area and featured a new custom bed that is available in my website that also supports the original SW, the original Ender3 heated bed and a custom mic6 build plate. I also reduced the amount of MGN12H Linear Rails from 5 to 4, reducing one rails from the Y axis and suprisingly increased the reliability. printing volume is ~220x220x220 which remains unchanged.
