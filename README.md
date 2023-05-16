@@ -7,7 +7,7 @@ The skirts and the original SW componets remained mostly unchanged as they worke
 Pre-order [here](https://forms.gle/FMu6K9q9Bggdzkqj7) or contact me on voron discord @Ezriel_golem
 
 # Discord server for beta testing
-This link[here](https://discord.gg/TyYWKHd9a2).
+This link [here](https://discord.gg/TyYWKHd9a2).
 Join in if you want to help the development of this project.
 
 ![Ender_SW_Release_2_2023-May-11_10-51-53AM-000_CustomizedView5216281523](https://github.com/EzrielDreamurr/Voron-Ender_3Pro_Switchwire/assets/75924120/e1e4f4ba-c344-4212-8cb4-2deeb50f88e0)
