@@ -6,3 +6,8 @@ The skirts and the original SW componets remained mostly unchanged as they worke
 Pre-order [here](https://forms.gle/FMu6K9q9Bggdzkqj7) or contact me on voron discord @Ezriel_golem
 
 ![Ender_SW_Release_2_2023-May-11_10-51-53AM-000_CustomizedView5216281523](https://github.com/EzrielDreamurr/Voron-Ender_3Pro_Switchwire/assets/75924120/e1e4f4ba-c344-4212-8cb4-2deeb50f88e0)
+
+# Read Before Printing
+Print the "Y Inner Idler" with supports!!!!! Just like the picture below. If you don't print like this, there might be reliability issues!!!
+![image](https://github.com/EzrielDreamurr/Voron-Ender_3Pro_Switchwire/assets/75924120/6f90bbfc-622f-4bdb-804a-e29593284868)
+
