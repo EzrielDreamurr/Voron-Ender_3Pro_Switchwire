@@ -1,3 +1,6 @@
+# Attention
+There is a major flaw on the "Y_Axis_Front_Idler_A" please don't use it until further notice!!!!
+
 # Voron-Ender_3Pro_Switchwire_Pre_release
 Conversion of the Ender 3 pro to a switch wire and its mods.
 This is a full conversion of the popular Ender 3 Pro/V2 to a Voron Switchwire. This conversion was inspired by [boubounokefalos](https://github.com/boubounokefalos/Ender_SW) AKA @DaRk_dOg and [walttriano](https://github.com/walttriano/Ender_3Pro_Switchwire). 
