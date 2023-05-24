@@ -10,7 +10,7 @@ Pre-order [here](https://forms.gle/FMu6K9q9Bggdzkqj7) or contact me on voron dis
 This link [here](https://discord.gg/TyYWKHd9a2).
 Join in if you want to help the development of this project.
 
-![Ender_SW_Release_2_2023-May-11_10-51-53AM-000_CustomizedView5216281523](https://github.com/EzrielDreamurr/Voron-Ender_3Pro_Switchwire/assets/75924120/e1e4f4ba-c344-4212-8cb4-2deeb50f88e0)
+![Ender_SW_Release_2_2023-May-23_11-15-19PM-000_CustomizedView37743734401](https://github.com/EzrielDreamurr/Voron-Ender_3Pro_Switchwire/assets/75924120/0f20377a-2a6a-4b98-aba4-e537627d287d)
 
 # Read Before Printing
 Print the "Y Inner Idler" with supports!!!!! Just like the picture below. If you don't print like this, there might be reliability issues!!!
